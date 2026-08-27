@@ -16,4 +16,4 @@ I'm an aspiring Data Analyst from Trinidad & Tobago 🇹🇹 — currently build
 Advanced Excel
 
 ### 📫 Let's Connect!
-[[LinkedIn]([link-to-your-repo-here](https://www.linkedin.com/in/farah-a-ali/))] | [farahamaraali@gmail.com]
+[[LinkedIn](https://www.linkedin.com/in/farah-a-ali/)] | [farahamaraali@gmail.com]
