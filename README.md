@@ -1,16 +1,19 @@
-## Hi there 👋
+## Hi there 👋💜
 
-<!--
-**farahxali/farahxali** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm an aspiring Data Analyst from Trinidad & Tobago 🇹🇹 — currently building my Excel portfolio!
 
-Here are some ideas to get you started:
+### 🔧 Skills I'm Building
+- Excel Formulas (SUMIF, SUMIFS, IF)
+- Budgeting & Financial Tracking
+- Dashboards & Data Visualization (Pie & Bar Charts)
+- Protected Templates & Automation
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 📂 Featured Project
+**[Personal Expense Tracker with Savings Rollover](link-to-your-repo-here)**
+> A smart budget for monthly usage. Built with dynamic formulas, KPI dashboard, and protected sheets.
+
+### 🌱 Currently Learning
+Advanced Excel
+
+### 📫 Let's Connect!
+[] | [farahamaraali@gmail.com]
